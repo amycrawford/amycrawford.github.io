@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A CLUSTERING METHOD FOR GRAPHICAL HANDWRITING COMPONENTS AND STATISTICAL WRITERSHIP ANALYSIS
+title: A Clustering Method for Graphical Handwriting Components and Statistical Writership Analysis
 ---
 
 Berry, N., and Crawford, A.. In review for the \textit{Annals of Applied Statistics}.
 
-![TEST]({{ site.baseurl }}/images/BerryCrawford_ClusteringHandwriting.pdf)
+![TEST]({{ site.baseurl }}/images/BerryCrawford_ClusteringHandwriting.png)
