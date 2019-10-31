@@ -7,4 +7,4 @@ layout: cv
     </embed>
 </object>
 
-<p>Last updated on October 30, 2019</p>
+<p>Updated: October 30, 2019</p>
