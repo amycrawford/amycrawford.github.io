@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: cv
 ---
 
 <object data="{{ site.baseurl }}/Crawford_CV.pdf" width="750px" height="750px">
