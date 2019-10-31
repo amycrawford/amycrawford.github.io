@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Database of Handwriting Samples for Applications in Forensic Statistics
+title: <span style="color:black"> A Database of Handwriting Samples for Applications in Forensic Statistics </span>
 ---
 
 Ray, A., <strong>Crawford, A.</strong>, and Carriquiry, A.. Submitted to [*Data in Brief*](https://www.journals.elsevier.com/data-in-brief).
