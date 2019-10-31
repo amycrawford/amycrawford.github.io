@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## About
+I am a Ph.D. Candidate in Statistics at Iowa State University. 
 
-### More Information
+## Contact me
+Durham Center 195
+613 Morrill Rd.
+Ames, IA 50011
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+amymc@iastate.edu
