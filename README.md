@@ -1,1 +1,1 @@
-Personal website created with the help of Jekyll Now: \url{https://github.com/barryclark/jekyll-now}
+Personal website created with the help of Jekyll Now: https://github.com/barryclark/jekyll-now
