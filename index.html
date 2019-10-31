@@ -2,17 +2,13 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<!-- Run jekyll serve, and go to localhost:4000 in web browser -->
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+<!DOCTYPE html><html><h1><a id="About_0"></a>About</h1>
+<head><meta charset="utf-8"><title>About</title><style></style></head><body id="preview">
+<p>I am a Ph.D. Candidate in Statistics at Iowa State University.</p>
+<h3><a id="Contact_me_8"></a>Contact me</h3>
+<p>Durham Center 195<br />613 Morrill Rd.<br />Ames, IA 50011-2100</p>
+<p><a href="mailto:amymc@iastate.edu">amymc@iastate.edu</a></p>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+</body></html>
