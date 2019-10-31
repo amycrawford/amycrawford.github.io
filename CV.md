@@ -6,3 +6,5 @@ layout: cv
     <embed src="{{ site.baseurl }}/Crawford_CV.pdf">
     </embed>
 </object>
+
+<p>Last updated on October 30, 2019</p>
