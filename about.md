@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## About
 I am a Ph.D. Candidate in Statistics at Iowa State University. 
 
 ## Contact me
